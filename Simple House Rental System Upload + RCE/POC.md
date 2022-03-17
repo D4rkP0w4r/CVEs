@@ -1,5 +1,5 @@
 # Simple House Rental System Unrestricted File Upload + RCE 
-* `Note` => don't need login to admin 
+* `Note` => login to client, don't need login to admin 
 * `Description` => Login to client => Upload web shell at `Image`
 # Step to Reproduct
 * Login to client -> `Register` -> `Apartment Registration` -> `Image` -> `Submit`
