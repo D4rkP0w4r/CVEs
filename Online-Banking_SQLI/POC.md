@@ -1,9 +1,9 @@
 # Online Banking SQL Injection
 * `Description` => sql injection at `staff_login.php`
 # Step to Reproduct
-* `Staff Login` -> `Staff ID ` -> `Staff Password` -> `Login`
+* `Staff Login` -> `Staff ID ` -> `Staff Password` -> `Login` -> `modify data` -> `Sqlmap`
 # Exploit
-* Input `Staff ID` and `Staff Password` -> `Login`
+* Input `Staff ID` and `Staff Password` -> `Login` 
 ![image](https://user-images.githubusercontent.com/79050415/159326849-427a43be-5e88-4535-ba60-7d41fe0906f1.png)
 * Use Burp Suite capture request 
 ![image](https://user-images.githubusercontent.com/79050415/159327710-183afd91-1624-4733-88a7-491cca62fa8f.png)
