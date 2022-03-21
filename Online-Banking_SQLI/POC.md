@@ -19,7 +19,7 @@ python3 sqlmap.py -r sqli.txt --batch --current-user
 ![image](https://user-images.githubusercontent.com/79050415/159329104-f6734379-6e0f-4344-a7a9-d4baa41d2e34.png)
 * No filter when inserting data to database
 # Information Disclosure
-![image](https://user-images.githubusercontent.com/79050415/159336479-fa3c68de-4a04-47a0-ac87-d78dd136e377.png)
+![image](https://user-images.githubusercontent.com/79050415/159337062-c4045649-7665-4691-9a51-3d41d502d14e.png)
 
 # POC
 `Injection Point`
