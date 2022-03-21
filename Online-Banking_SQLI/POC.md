@@ -1,4 +1,4 @@
-# Online Banking SQL Injection
+# Online Banking System SQL Injection
 * `Description` => sql injection at `staff_login.php`
 # Step to Reproduct
 * `Staff Login` -> `Staff ID ` -> `Staff Password` -> `Login` -> `modify data` -> `Sqlmap`
