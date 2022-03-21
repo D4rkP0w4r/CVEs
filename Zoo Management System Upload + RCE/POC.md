@@ -1,6 +1,6 @@
 # Zoo Management System Unrestricted File Upload + RCE
-* `Note` => don't need register or login 
-* `Description` => Login to client => Upload web shell at `Upload CV`
+* `Note` => don't need register or login account
+* `Description`=> Upload web shell at `Upload CV`
 # Step to Reproduct
 * Access `Vacancies` -> upload web shell at -> `Upload CV` -> `APPLY`
 # Exploit
