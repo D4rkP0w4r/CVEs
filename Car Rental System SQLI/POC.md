@@ -1,4 +1,5 @@
 # Car Rental System SQL Injection
+* `Note` => Login to customer
 * `Injection Point` => `http://192.168.1.101:8080/Car_Rental/booking.php?id=1`
 # Exploit 
 * Exploit with `Sqlmap` + `Burp Suite `
