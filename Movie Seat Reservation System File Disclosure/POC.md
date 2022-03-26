@@ -1,4 +1,4 @@
-# Movie Seat Reservation System Unauthenticated File Disclosure
+# Movie Seat Reservation System File Disclosure
 * `Note` => don't need login 
 # Exploit 
 * Exploit with Burp Suite 
