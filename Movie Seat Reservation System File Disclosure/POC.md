@@ -2,6 +2,9 @@
 * `Note` => don't need login 
 # Exploit 
 * Exploit with Burp Suite 
+```python
+http://192.168.1.101:8080/Movie_Seat_Reservation_System/index.php?page=home
+```
 ![image](https://user-images.githubusercontent.com/79050415/160242883-2539e290-9b33-4267-a38b-a2d37563b0a2.png)
 * Use Burp Suite capture request and payload => `Send`
 ![image](https://user-images.githubusercontent.com/79050415/160242922-7c29a7ac-787f-47b8-9052-6c5c2d7495cb.png)
