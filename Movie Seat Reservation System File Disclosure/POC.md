@@ -3,7 +3,7 @@
 # Exploit 
 * Exploit with Burp Suite 
 ![image](https://user-images.githubusercontent.com/79050415/160242883-2539e290-9b33-4267-a38b-a2d37563b0a2.png)
-* Use Burp Suite capture request and payload
+* Use Burp Suite capture request and payload => `Send`
 ![image](https://user-images.githubusercontent.com/79050415/160242922-7c29a7ac-787f-47b8-9052-6c5c2d7495cb.png)
 * Then decode `Base64` 
 ```python3
